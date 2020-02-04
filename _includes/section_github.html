@@ -1,19 +1,24 @@
 {% if site.github %}
-<section class="section-wrapper section-education gray-bg">
-	<div class="container-fluid">
+<section class="skills-wrapper section-wrapper gray-bg">
+		<div class="container-fluid">
 		<div class="row">
-		<div class="col-md-6">
-		<div class="section-title"><h2>Some projects I am Working On</h2></div>
+			<div class="col-md-12">
+				<div class="section-title">
+				<h2>Some projects I am Working On</h2>
+				</div>
+			</div>
 		</div>
-		</div>
-		
+	
+	
 		<div class="row">
+			<div class="col-md-12">
+				<div class="progress-wrapper">
 				{% for project in site.github %}
 					{% assign loopindex = forloop.index | modulo: 2 %}
 					{% if loopindex == 1 %}
 					<div class="row">
 					{% endif %}
-						<div class="col-md-6">
+						<div class="col-lg-6">
 							<div class="github-widget" data-repo="{{project}}"></div>
 						</div>
 					{% if loopindex == 0 %}
@@ -21,8 +26,10 @@
 					{% endif %}
 				{% endfor %}
 				{% if loopindex == 1 %}
-		</div>
 				{% endif %}
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 {% endif %}
