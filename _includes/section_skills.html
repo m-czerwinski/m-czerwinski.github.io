@@ -1,13 +1,30 @@
-<div id="skillsBubble" class="rounded_panel txt_lightgrey">
-	<div class="top-rounded-panel grey-bg">
-		<h1 id="user-skills">Areas of experience &amp; interest</h1>
-	</div>
-	<div class="content-rounded-panel">
 
-		<div id="skills">
-			{% for skill in site.skills %}
-				<span class="label label-info label-padded"> {{skill}} </span> &nbsp;
+<section class="skills-wrapper section-wrapper gray-bg">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+			<div class="section-title">
+			<h2>Skills</h2>
+			</div>
+			</div>
+		</div>
+
+
+		<div class="row">
+			<div class="col-md-12">
+			<div class="progress-wrapper">
+			{% for skill in  site.skills %}
+			<div class="progress-item">
+				<span class="progress-title"> {{skill.name}} </span> 
+				<div class="progress">
+				<div class="progress-bar" role="progressbar" aria-valuenow="{{skill.percent}}" aria-valuemin="0" aria-valuemax="100" style="width:{{skill.percent}}">
+				<span class="progress-percent"> {{skill.percent}}</span>
+				</div> 
+				</div>
+			</div>
 			{% endfor %}
+			</div>
+			</div>
 		</div>
 	</div>
-</div>
+</section>
