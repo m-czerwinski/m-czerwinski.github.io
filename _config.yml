@@ -88,10 +88,10 @@ github:
 #Contact flair is optional
 contact:
    website: https://pl-misuw.github.io
-   phone: NaN
-   email: NaN
-   address1: NaN
-   address2: Nan
+   phone:
+   email:
+   address1:
+   address2:
 
 intro: |
   <p>I am an engineer with 5 years’ experience working in technology. I have primarily worked on the Windows-related web stack, but have worked across a broad range of technologies thereon: Groovy, Linux, Docker and most recently Openshift and Kubernetes; as well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of web-related skills (Graphic design, coding, services, workflows, AWS integrations).</p>
