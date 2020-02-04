@@ -1,0 +1,31 @@
+<section class="section-wrapper section-experience gray-bg">
+	<div class="container-fluid">
+		<div class="row">
+		<div class="col-md-6">
+		<div class="section-title"><h2>Work Experience</h2></div>
+		{% for role in site.roles %}
+		<div class="col-md-12">
+		<div class="content-item">
+		<small>{{role.start}} - {{role.end}}</small>
+		<h3>{{role.title}}</h3>
+		<h4>{{role.employer}}</h4>
+		<p>{{role.place}}</p>
+		</div>
+		</div>
+		{% endfor %}
+		</div>
+		<div class="col-md-6">
+		<div class="section-title"><h2>Education</h2></div>
+		{% for education in site.education %}
+		<div class="col-md-12">
+		<div class="content-item">
+		<small>{{education.start}} - {{education.end}}</small>
+		<h3>{{education.subject}}</h3>
+		<h4>{{education.school}}</h4>
+		</div>
+		</div>
+		{% endfor %}
+		</div>
+		</div>
+	</div>
+</section>

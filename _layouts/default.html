@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body id="page-top" data-spy="scroll" data-target=".navbar" style="transform: none;">
+	<p style="text-align: center;position: fixed;bottom: 0;right: 0;z-index: 1;margin: 0;"><a class="btn btn-primary btn-lg" href="http://pdfcrowd.com/url_to_pdf/" role="button" style="margin:0 auto;">PDF</a></p>
+		<div class="main-wrapper">
+			<div id="preloader" style="display: none;">
+				<div id="status">
+					<div class="status-mes"></div>
+				</div>
+			</div>
+			<div class="columns-block container" style="transform: none;">
+			{{ content }}
+			</div>
+		</div>
+		{% include jsimports.html %}
+	</body>
+</html>

@@ -1,0 +1,105 @@
+# Site settings
+title: Michał Suwara
+role: DevOps Engineer
+name: Michał Suwara
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/pl-misuw
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/michał-s-aa43a89b/
+
+#Any buzzword skills you want to include
+skills:
+ - name: CI/CD understanding
+   percent: 85%
+ - name: IT services
+   percent: 75%
+ - name: People skills
+   percent: 100%
+ - name: AWS EC2, and Cloud Services
+   percent: 75%
+ - name: Linux System Administration
+   percent: 40%
+ - name:  Windows Core Administration
+   percent: 80%
+
+#Area of Expertise
+expertise:
+  - name: Professionally drive
+    description: Synergistically strategize customer directed resources rather than principle.
+  - name: Goal Oriented
+    description: Willingly and successfully try to do what is required.
+  - name: Team Player
+    description: Working great with a group to solve problems and find solutions. 
+  - name: Problem Solver
+    description: Considers problems as a challenge and enjoys finding creative yet appropriate solutions.
+
+#Work experience is required
+roles:
+ - title: DevOps Engineer
+   start: 2018
+   end: Ongoing
+   employer: Nordea
+   description: Work on Openshift clusters on Linux (RHEL), IAaC, work on infrastructure on local machines using NixOS, work with Scala and Big-data related technological stacks.
+   place: Gdynia, Poland
+ - title: DevOps Engineer
+   start: 2017
+   end: 2018
+   employer: Accenture
+   description: Further work on CI/CD on Windows, setup of Docker infrastructure on local machines, automation related to the infrastructure setup on Windows.
+   place: Kraków, Poland
+ - title: DevOps Engineer
+   start: 2016
+   end: 2017
+   employer: ZeroChaos (Contract for ABB)
+   description: Help with maintanance, monitoring of the web applications running on Windows and AWS stack, CI/CD with Jenkins on Windows.
+   place: Kraków, Poland
+ - title: Application Specialist
+   start: 2014
+   end: 2016
+   employer: ZeroChaos (Contract for ABB)
+   description: 2nd and 3rd line support for web applications, help with invastigations and trouble-shooting the web applications. 
+   place: Kraków, Poland
+ - title: IT Support
+   start: 2013
+   end: 2014
+   employer: Eurocent S.A.
+   description: Working on a range of IT specific and Administration related things.
+   place: Kraków, Poland
+
+#Education is required
+education:
+ - title: Penis
+   start: 2008
+   end: 2012
+   subject: Applied Informatics
+   school: AGH University of Science and Technology
+
+#List of interesting Github repo/projects to include - optional
+github:
+  - pl-misuw/pl-misuw.github.io
+
+#Contact flair is optional
+contact:
+   website: https://pl-misuw.github.io
+   phone: NaN
+   email: NaN
+   address1: NaN
+   address2: Nan
+
+intro: |
+  <p>I am an engineer with 5 years’ experience working in technology. I have primarily worked on the Windows-related web stack, but have worked across a broad range of technologies thereon: Groovy, Linux, Docker and most recently Openshift and Kubernetes; as well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of web-related skills (Graphic design, coding, services, workflows, AWS integrations).</p>
+
+  <p>I enjoy working with interesting products, with understanding of business-related topics, management and emphasis on DevOps culture. Due to my work with consultancy agencies I have a strong understanding of processes, engineering principals and communication with clients and stakeholders.</p>
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, Lambda.<br/><br/>
+    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS.<br/><br/>
+    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
