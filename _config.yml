@@ -16,17 +16,17 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - name: ERP Systems - SAP
-   Percent: 25%
+   percent: 25%
  - name: Docker
-   Percent: 25%
+   percent: 25%
  - name: Soft skills - team leading
-   Percent: 75%
+   percent: 75%
  - name: AWS EC2 and Cloud Services
-   Percent: 25%
+   percent: 25%
  - name: Linux System Administration
-   Percent: 25%
+   percent: 25%
  - name:  Windows Core Administration
-   Percent: 50%
+   percent: 50%
 
 #Area of Expertise
 expertise:
