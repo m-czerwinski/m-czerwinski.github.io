@@ -16,17 +16,17 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - name: ERP Systems - SAP
-   Level: 25
+   Level: 25%
  - name: Docker
    Level: 25%
  - name: Soft skills - team leading
-   Level: Advanced
+   Level: 75%
  - name: AWS EC2 and Cloud Services
-   Level: Basic
+   Level: 25%
  - name: Linux System Administration
-   Level: Basic
+   Level: 25%
  - name:  Windows Core Administration
-   Level: Intermediate
+   Level: 50%
 
 #Area of Expertise
 expertise:
