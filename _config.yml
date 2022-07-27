@@ -81,7 +81,12 @@ education:
    end: 2013
    subject: Logistics and Sea Spedition
    school: Gdynia Maritime University
-
+   
+#List of interesting Github repo/projects to include - optional
+github:
+  - m-czerwinski/m-czerwinski.github.io
+  - m-czerwinski/deployment-of-basic-website-using-Docker-
+  
 #Contact flair is optional
 contact:
    phone: +48 666 112 691
