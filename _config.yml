@@ -17,6 +17,8 @@ primarylinks:
 skills:
  - name: ERP Systems - SAP
    percent: 25%
+ - name: Agile Methodology
+   percent: 50%
  - name: Docker
    percent: 25%
  - name: Soft skills - team leading
@@ -43,6 +45,12 @@ expertise:
 
 #Work experience is required
 roles:
+- title: DevOps Intern
+   start: 01.2022
+   end: ongoing
+   employer: Michal Suwara IT
+   description: Learning basics of DevOps by assisting the employer
+   place: Gdynia, Poland
  - title: Supply Chain Management Agent
    start: 08.2021
    end: 12.2021
