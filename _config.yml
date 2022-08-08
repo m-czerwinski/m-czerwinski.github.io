@@ -45,8 +45,10 @@ expertise:
 
 #Work experience is required
 roles:
+
 - title: DevOps Intern
    start: 03.2022
+   end: Ongoing
    employer: Michal Suwara IT
    description: Learning basics of DevOps by assisting the employer
    place: Gdynia, Poland
