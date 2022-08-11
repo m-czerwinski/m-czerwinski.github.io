@@ -17,6 +17,8 @@ primarylinks:
 skills:
  - name: ERP Systems - SAP
    percent: 25%
+ - name: VIM
+   percent: 25%
  - name: Agile Methodology
    percent: 50%
  - name: Docker
