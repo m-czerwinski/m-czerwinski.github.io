@@ -17,7 +17,7 @@ primarylinks:
 skills:
  - name: ERP Systems - SAP
    percent: 25%
- - name: VIM
+ - name: HTML & CSS
    percent: 25%
  - name: Agile Methodology
    percent: 50%
@@ -29,7 +29,7 @@ skills:
    percent: 25%
  - name: Linux System Administration
    percent: 25%
- - name:  Windows Core Administration
+ - name:  Windows Core Administration and Active Directory
    percent: 50%
 
 #Area of Expertise
@@ -103,7 +103,7 @@ contact:
    phone: +48 666 112 691
    email: md.czerwinski@gmail.com 
    
-intro: <p> Recommended by Maciej Jagiello. 
+intro: <p>
            Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji 
            zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych 
             w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO). </p>
