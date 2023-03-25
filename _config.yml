@@ -28,7 +28,7 @@ skills:
  - name: AWS EC2 and Cloud Services
    percent: 25%
  - name: Linux System Administration
-   percent: 25%
+   percent: 50%
  - name:  Windows Core Administration and Active Directory
    percent: 50%
 
