@@ -48,9 +48,16 @@ expertise:
 #Work experience is required
 roles:
 
+ - title: Tech Support
+   start: 12.2022
+   end: Ongoing
+   employer: Ocean Technologies Group
+   description: Assisting customers with everyday issues; Configuring POP3; SMTP and FTP services; Troubleshooting
+   place: Gdynia, Poland
+
  - title: DevOps Intern
    start: 03.2022
-   end: Ongoing
+   end: 12.2022
    employer: Michal Suwara IT
    description: Learning basics of DevOps by assisting the employer
    place: Gdynia, Poland
