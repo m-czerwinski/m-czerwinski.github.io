@@ -104,6 +104,11 @@ contact:
    phone: +48 666 112 691
    email: md.czerwinski@gmail.com 
    
+#List of interesting Github repo/projects to include - optional
+github:
+  - m-czerwinski/m-czerwinski.github.io
+  - m-czerwinski/deployment-of-basic-website-using-Docker-
+   
 intro: <p>
            Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji 
            zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych 
