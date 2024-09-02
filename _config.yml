@@ -48,12 +48,12 @@ expertise:
 #Work experience is required
 roles:
 
- - title: wtf
-   start: 2017
+ - title: Tech Support
+   start: 12.2022
    end: Ongoing
-   employer: Basement dweller
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
-
+   employer: Ocean Technologies Group
+   place: Assisting customers with everyday issues; Configuring POP3; SMTP and FTP services; Troubleshooting
+   
  - title: DevOps Intern
    start: 03.2022
    end: 12.2022
