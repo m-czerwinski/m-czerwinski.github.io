@@ -52,13 +52,14 @@ roles:
    start: 12.2022
    end: Ongoing
    employer: Ocean Technologies Group
+   
    place: Assisting customers with everyday issues; Configuring POP3; SMTP and FTP services; Troubleshooting
    
  - title: DevOps Intern
    start: 03.2022
    end: 12.2022
    employer: Michal Suwara IT
-   name: "Learning basics of DevOps by assisting the employer; Writing dockerfiles; Basics of Kubernetes"
+   place: "Learning basics of DevOps by assisting the employer; Writing dockerfiles; Basics of Kubernetes"
    
  - title: Supply Chain Management Agent
    start: 08.2021
