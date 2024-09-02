@@ -43,7 +43,7 @@ expertise:
   - name: Team Player
     description: Working great with a group to solve problems and find solutions; helping to coordinate. 
   - name: Problem Solver
-    description: Considers problems as a puzzle and enjoys finding a creative yet appropriate solutions.
+    description: Considers problems as a puzzle and enjoys finding creative yet appropriate solutions.
 
 #Work experience is required
 roles:
@@ -59,7 +59,7 @@ roles:
    start: 03.2022
    end: 12.2022
    employer: Michal Suwara IT
-   description: Learning basics of DevOps by assisting the employer
+   description: Learning basics of DevOps by assisting the employer; Writing dockerfiles; Basics of Kubernetes
    place: Gdynia, Poland
  - title: Supply Chain Management Agent
    start: 08.2021
@@ -99,11 +99,6 @@ education:
    end: 2013
    subject: Logistics and Sea Spedition
    school: Gdynia Maritime University
-   
-#List of interesting Github repo/projects to include - optional
-github:
-  - m-czerwinski/m-czerwinski.github.io
-  - m-czerwinski/deployment-of-basic-website-using-Docker-
   
 #Contact flair is optional
 contact:
