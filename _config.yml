@@ -53,7 +53,7 @@ roles:
    end: Ongoing
    employer: Ocean Technologies Group
    
-   place: Assisting customers with everyday issues; Configuring POP3; SMTP and FTP services; Troubleshooting
+   place: "Assisting customers with everyday issues;Writing simple SQL queries; Configuring POP3; SMTP and FTP services; Troubleshooting"
    
  - title: DevOps Intern
    start: 03.2022
@@ -65,31 +65,31 @@ roles:
    start: 08.2021
    end: 12.2021
    employer: Maersk Group
-   description: "Overseeing the supply chain for Maersk customers; ensuring proper document flow and its compliance"
+   place: "Overseeing the supply chain for Maersk customers; ensuring proper document flow and its compliance"
    
  - title: HR Compliance Associate
    start: 02.2021
    end: 06.2021
    employer: Maersk Drilling
-   description: "Reviewing of compliance of personnel certifications with maritime standards and regulations"
+   place: "Reviewing of compliance of personnel certifications with maritime standards and regulations"
    
  - title: Senior Compliance Associate - Extended Producer Responsibility
    start: 01.2019
    end: 09.2020
    employer: Amazon
-   description: "Customs categorisation for electronic waste; deep diving and researching chemical composition-specific customs rules"
+   place: "Customs categorisation for electronic waste; deep diving and researching chemical composition-specific customs rules"
    
  - title: Senior Compliance Associate - Global Trade
    start: 12.2017
    end: 01.2019
    employer: Amazon
-   description: "In-depth customs review of products; Rulewriting for automatisation of aforementioned;Coordinating work with QA"  
+   place: "In-depth customs review of products; Rulewriting for automatisation of aforementioned;Coordinating work with QA"  
    
  - title: UK Team Lead
    start: 10.2014
    end: 05.2017
    employer: Ray-Ban
-   description: "Coordinating UK Customer Care team; Ensuring quality of service; Dealing with difficult and problematic cases"
+   place: "Coordinating UK Customer Care team; Ensuring quality of service; Dealing with difficult and problematic cases"
 
 #Education is required
 education:
