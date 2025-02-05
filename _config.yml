@@ -17,9 +17,9 @@ primarylinks:
 skills:
  - name: ERP Systems; SAP
    percent: 50%
- -  name: HTML & CSS
+ - name: HTML & CSS
    percent: 25%
- -  name: Agile Methodology
+ - name: Agile Methodology
    percent: 50%
  - name: Docker
    percent: 50%
@@ -29,7 +29,7 @@ skills:
    percent: 50%
  - name: Linux System Administration
    percent: 50%
- - name:  Windows Core Administration and Active Directory
+ - name: Windows Core Administration and Active Directory
    percent: 50%
  - name: Jira; Confluence; TeamViewer
    percent: 75%
