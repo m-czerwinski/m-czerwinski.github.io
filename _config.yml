@@ -15,8 +15,9 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - name: ERP Systems - SAP
-   percent: 25%
+
+ - name: ERP Systems; SAP
+   percent: 50%
  - name: HTML & CSS
    percent: 25%
  - name: Agile Methodology
@@ -112,9 +113,7 @@ intro: <p>
            zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych 
             w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).
 
-I hereby consent to the processing of this CV and the personal data contained within, by anyone who receives this document for the sole purpose of considering my application for employment opportunities, in accordance with Article 6.1(a) of GDPR (EU) 2016/679.
-
-
-
-
- </p>
+          I hereby consent to the processing of this CV and the personal data contained within, 
+          by anyone who receives this document for the sole purpose of considering my application for employment opportunities, 
+         in accordance with Article 6.1(a) of GDPR (EU) 2016/679.
+         </p>
