@@ -15,24 +15,23 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
-
-  name: ERP Systems; SAP
+ - name: ERP Systems; SAP
    percent: 50%
-  name: HTML & CSS
+ -  name: HTML & CSS
    percent: 25%
-  name: Agile Methodology
+ -  name: Agile Methodology
    percent: 50%
-  name: Docker
+ - name: Docker
    percent: 50%
-  name: Soft skills and team-leading
+ - name: Soft skills and team-leading
    percent: 75%
-  name: SQL
+ - name: SQL
    percent: 50%
-  name: Linux System Administration
+ - name: Linux System Administration
    percent: 50%
-  name:  Windows Core Administration and Active Directory
+ - name:  Windows Core Administration and Active Directory
    percent: 50%
-  name: Jira; Confluence; TeamViewer
+ - name: Jira; Confluence; TeamViewer
    percent: 75%
 
 #Area of Expertise
