@@ -22,21 +22,23 @@ skills:
  - name: Agile Methodology
    percent: 50%
  - name: Docker
-   percent: 25%
- - name: Soft skills - team leading
+   percent: 50%
+ - name: Soft skills and team-leading
    percent: 75%
  - name: SQL
-   percent: 25%
+   percent: 50%
  - name: Linux System Administration
    percent: 50%
  - name:  Windows Core Administration and Active Directory
    percent: 50%
+  - name: Jira; Confluence; TeamViewer
+   percent: 75%
 
 #Area of Expertise
 expertise:
   - name: Detail oriented
     description: Always focused on details; 
-  - name: Self sufficient
+  - name: Self-sufficient
     description: Strong drive and ability to self-organize.
   - name: Great language skills
     description: Native level English; good understanding of Dutch and German
@@ -77,13 +79,13 @@ roles:
    start: 01.2019
    end: 09.2020
    employer: Amazon
-   place: "Customs categorisation for electronic waste; deep diving and researching chemical composition-specific customs rules"
+   place: "Customs categorization for electronic waste; deep diving and researching chemical composition-specific customs rules"
    
  - title: Senior Compliance Associate - Global Trade
    start: 12.2017
    end: 01.2019
    employer: Amazon
-   place: "In-depth customs review of products; Rulewriting for automatisation of aforementioned;Coordinating work with QA"  
+   place: "In-depth customs review of products; Rule writing for automatization of aforementioned; Coordinating work with QA"  
    
  - title: UK Team Lead
    start: 10.2014
@@ -104,12 +106,15 @@ contact:
    phone: +48 666 112 691
    email: md.czerwinski@gmail.com 
    
-#List of interesting Github repo/projects to include - optional
-github:
-  - m-czerwinski/m-czerwinski.github.io
-  - m-czerwinski/deployment-of-basic-website-using-Docker-
    
 intro: <p>
            Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji 
            zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych 
-            w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO). </p>
+            w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).
+
+I hereby consent to the processing of this CV and the personal data contained within, by anyone who receives this document for the sole purpose of considering my application for employment opportunities, in accordance with Article 6.1(a) of GDPR (EU) 2016/679.
+
+
+
+
+ </p>
